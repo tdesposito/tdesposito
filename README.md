@@ -18,6 +18,7 @@ Still, nothing like a good framework when you can get one.
 ## Projects
 I have a few projects I'm actively working on (and many more I'm not so active
 on; I'm sure you feel me here), including:
+* [DevPail] - a tool to isolate my projects' tooling into a Docker container
 * some simple [Web-Components](https://github.com/tdesposito/EH-WebComponents)
 * a python library for accessing the [Zoho Finance Suite API](https://github.com/tdesposito/pyZohoAPI)
 * a framework for building [Raspberry Pi appliances](https://github.com/tdesposito/Pi-Appliance)
@@ -26,3 +27,5 @@ on; I'm sure you feel me here), including:
 ## I'm Available
 I'm always looking for my next cool project, whether that be Open Source or a
 paid consulting/development gig. Send me a note at [Todd@ToddEsposito.com](mailto://todd@toddesposito.com)
+
+[DevPail]: https://github.com/tdesposito/DevPail
