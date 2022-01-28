@@ -19,13 +19,20 @@ Still, nothing like a good framework when you can get one.
 I have a few projects I'm actively working on (and many more I'm not so active
 on; I'm sure you feel me here), including:
 * [DevPail] - a tool to isolate my projects' tooling into a Docker container
-* some simple [Web-Components](https://github.com/tdesposito/EH-WebComponents)
-* a python library for accessing the [Zoho Finance Suite API](https://github.com/tdesposito/pyZohoAPI)
-* a framework for building [Raspberry Pi appliances](https://github.com/tdesposito/Pi-Appliance)
-* and a [blog](https://toddesposito.com), cuz I guess that's cool again.
+* [cvbump] - a tool which combines version bumping and generating a corresponding ChangeLog
+* some simple [Web-Components]
+* a python library for accessing the [Zoho Finance Suite API]
+* a framework for building [Raspberry Pi appliances]
+* and a [blog], cuz I guess that's cool again.
 
 ## I'm Available
 I'm always looking for my next cool project, whether that be Open Source or a
 paid consulting/development gig. Send me a note at [Todd@ToddEsposito.com](mailto://todd@toddesposito.com)
 
+<!-- Links -->
+[blog]: https://toddesposito.com
+[cvbump]: https://npmjs.org/package/cvbump
 [DevPail]: https://github.com/tdesposito/DevPail
+[Raspberry Pi appliances]: https://github.com/tdesposito/Pi-Appliance
+[Web-Components]: https://github.com/tdesposito/EH-WebComponents
+[Zoho Finance Suite API]: https://github.com/tdesposito/pyZohoAPI
